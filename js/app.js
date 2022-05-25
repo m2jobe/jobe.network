@@ -12,6 +12,7 @@ particlesJS.load('particles-js', 'particles.json', function() {
 //Test
 //Test 10
 //Test 12
+// Test
 
 /* Otherwise just put the config content (json): */
 particlesJS(
